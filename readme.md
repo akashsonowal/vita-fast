@@ -2,8 +2,9 @@
 
 ## Learning Objective:
 - Writing fast triton kernels
-- Quantization Aware Training and Post Traning Quantization
+- Mixed Precision Training, Quantization Aware Training and Post Traning Quantization
 - Multinode GPU Training
+- Make fast inference and serving on mobile phone
 
 ## References: 
 - https://github.com/VITA-MLLM/VITA/tree/main
